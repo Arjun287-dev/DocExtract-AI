@@ -1,0 +1,5 @@
+{
+  "name": "DocuExtract AI",
+  "description": "A powerful document extraction tool powered by Gemini 2.5 Flash. Upload documents or images to extract specific data fields into structured JSON format instantly.",
+  "requestFramePermissions": []
+}
